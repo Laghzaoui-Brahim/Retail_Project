@@ -1,0 +1,7 @@
+astro
+.git
+.env
+logs/
+.venv
+airflow.db
+airflow.cfg
