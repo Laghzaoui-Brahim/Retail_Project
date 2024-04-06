@@ -47,10 +47,11 @@ https://www.kaggle.com/datasets/tunguz/online-retail
 
 # Pipeline
 
-
+https://github.com/Laghzaoui-Brahim/Retail_Project/blob/master/Pipeline.png
 
 # Data modeling
 
+https://github.com/Laghzaoui-Brahim/Retail_Project/blob/master/Data%20modeling.png
 
 ## Prerequisites
 
