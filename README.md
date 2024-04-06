@@ -77,18 +77,18 @@ https://github.com/Laghzaoui-Brahim/Retail_Project/blob/master/Data%20modeling.p
     # include/gcp/service_account.json
     
     {
-        "type": "service_account",
-        "project_id": "xxxxxxxxxxxxxxxxxxxxxx",
-        "private_key_id": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-        "private_key": "-----BEGIN PRIVATE KEY-----\nxxxxxxxxxxxxxxxxxxxxxxxxx\nD/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n-----END PRIVATE KEY-----\n",
-        "client_email": "airflow-online-retail@airtube-390719.iam.gserviceaccount.com",
-        "client_id": "xxxxxxxxxxxxxxxxxxxxx",
-        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-        "token_uri": "https://oauth2.googleapis.com/token",
-        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-        "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/airflow-online-retail%40airtube-390719.iam.gserviceaccount.com",
-        "universe_domain": "googleapis.com"
-    }service_accountservice_account
+    "type": "service_account",
+    "project_id": "gcplearner",
+    "private_key_id": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx=\n-----END PRIVATE KEY-----\n",
+    "client_email": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "client_id": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/airflow-acount%40gcplearner-408018.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
     ```
     
     - [ ]  Airflow → Admin → Connections
